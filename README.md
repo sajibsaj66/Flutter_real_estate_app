@@ -16,7 +16,7 @@ Real estate listing app
 Clone the project
 
 ```bash
-  git clone https://github.com/Iamstanlee/dufuna_app.git
+  git clone https://github.com/sajibsaj66/Flutter_real_estate_app
 ```
 
 Go to the project directory
